@@ -2842,3 +2842,12 @@ button:active,
 .portfolio .portfolio-item {
   margin-bottom: 30px;
 }
+
+.portfolio-item-desc {
+  padding: 0px 20px;
+  word-wrap: break-word;
+}
+
+.portfolio-item-title {
+  font-weight: 400;
+}
