@@ -2202,7 +2202,7 @@ button:active,
 }
 
 #header .icons a {
-  color: #41484c;
+  color: #819098;
   -moz-transition: color 0.35s ease-in-out;
   -webkit-transition: color 0.35s ease-in-out;
   -ms-transition: color 0.35s ease-in-out;
@@ -2851,4 +2851,35 @@ button:active,
 
 .portfolio-item-title {
   font-weight: 400;
+}
+
+.portfolio-technologies {
+  border-top: 1px solid #eaeaea;
+}
+
+.portfolio-technologies > i {
+  font-size: 2.5em;
+  padding: 10px;
+}
+
+.portfolio-technologies > h1 {
+  font-size: 32px;
+  padding-bottom: 10px;
+}
+
+.resume-side {
+  text-align: center !important;
+  font-size: 32px;
+}
+
+.resume-side:hover {
+  color: #fff;
+}
+.bottom {
+  color: #819098;
+  -moz-transition: color 0.35s ease-in-out;
+  -webkit-transition: color 0.35s ease-in-out;
+  -ms-transition: color 0.35s ease-in-out;
+  transition: color 0.35s ease-in-out;
+  text-align: center;
 }
